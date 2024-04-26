@@ -1,1 +1,1 @@
-console.log("commands")
+console.log('commands.js');
